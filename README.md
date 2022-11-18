@@ -31,7 +31,7 @@
 [![](https://img.icons8.com/fluency/40/000000/instagram-new.png)](https://www.instagram.com/nisheet_/)
 [![](https://img.icons8.com/color/40/000000/discord-logo.png)](https://discord.com/users/749556540897493013)
 [![](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png)](https://www.hackerrank.com/nisheetpatel)
-
+[![](https://img.icons8.com/color/40/null/telegram-app--v1.png)](https://t.me/nisheetpatel)
 <br>
 
 ### 📊 Github Stats:
